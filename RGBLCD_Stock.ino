@@ -1,6 +1,6 @@
 /*********************
  * 
- * Grab stocks using Wifi shield and display on Adafruit RGB LCD shield
+ * Download stocks using Wifi shield and display on Adafruit RGB LCD shield
  * 
  *  Buttons allow you to scroll through your stocks.  Look in header file
  *  for stock symbols to look up.
