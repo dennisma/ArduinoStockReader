@@ -20,7 +20,7 @@
 // NOTE: if you are using a Leonardo or Micro NOTHING will happen until you
 // open the Serial Monitor from the IDE. Just saying. See RGBLCD_Stock.h
 
-//#define STOCK_DEBUG
+#define STOCK_DEBUG
  
 // include the library code:
 #include <WiFi.h>                     // for Wifi shield
